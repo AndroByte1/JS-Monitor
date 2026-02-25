@@ -57,3 +57,10 @@ https://example.com/main.js
 ```bash
 python3 Main.py
 ```
+
+## Features
+
+- 🔍 Keep track of JavaScript endpoints  
+- 🚨 Send notifications on Discord when endpoints change ( newly added endpoint parameters by owner)
+- 🗂 Persistent history tracking for accurate diffing  
+- 🧹 Automatic temporary file cleanup  
