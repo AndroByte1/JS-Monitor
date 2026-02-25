@@ -11,7 +11,7 @@ It monitors JavaScript files, extracts endpoints using xnLinkFinder, compares th
 To install **JS_MON**:
 
 ```bash
-git clone https://github.com/yourusername/JS_MON.git
+git clone https://github.com/AndroByte1/JS-Monitor.git
 cd JS_MON
 ```
 
@@ -55,5 +55,5 @@ https://example.com/main.js
 ### Run
 
 ```bash
-python3 js_monitor.py
+python3 Main.py
 ```
