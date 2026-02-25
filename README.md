@@ -1,5 +1,4 @@
-JS_MON
-
+**JS-Monito**
 <sub>Track. Diff. Alert. Repeat.</sub>
 
 JS-Monitor is a lightweight reconnaissance automation tool built for bug bounty hunters and security researchers.
